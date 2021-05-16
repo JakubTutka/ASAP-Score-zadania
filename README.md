@@ -2,7 +2,7 @@
 
 ## Zadanie 1
 
-Z pomocą prezentacji stwórz własny formularz logowania za pomocą Kivy.
+Z pomocą prezentacji stwórz własny formularz logowania wykorzystujący Kivy.
 W tym celu posłuż się kodem w pliku zadanie1.py w celu dopełnienia GridLayout'u który poskłada twoje komponenty w siatkę, ustal liczbę kolumn po czym dodaj cztery widgety: 2x Label i 2x TextInput w odpowiedniej kolejności.
 
 Wskazówki:
@@ -19,7 +19,7 @@ Napisz proste zapytania SQL, które odpowiednio:
 - pokaże nick wszystkich użytkowników z tabeli szlachcice
 - wyświetli nick najstarszego szlachcica
 
-Tabela szlachciców znajduję się w prezentacji (slajd 18)\
+Tabela szlachciców znajduję się w prezentacji (slajd 18)
 
 ## Zadanie 3
 Napisz dwa wyrażenia regularne (regexpy), które będą spełniać odpowiednio kilka warunków:
