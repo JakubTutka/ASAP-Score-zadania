@@ -16,7 +16,7 @@ Przykładowy wynik jest pokazany w prezentacji. (slajd 16)
 ## Zadanie 2
 
 Napisz proste zapytania SQL, które odpowiednio:
-- pokaże nick wszystkich użytkowników z tabeli szlachcice
+- pokaże nick o id o numerze 5
 - wyświetli nick najstarszego szlachcica
 
 Tabela szlachciców znajduję się w prezentacji (slajd 18)
