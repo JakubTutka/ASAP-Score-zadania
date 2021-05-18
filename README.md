@@ -7,7 +7,7 @@ W tym celu posłuż się kodem w pliku zadanie1.py w celu dopełnienia GridLayou
 
 Wskazówki:
 - pamiętaj o operowaniu na obiekcie danej klasy (self)
-- ustal liczbę kolumn naszej siatki GridLayout (atrybut columns)
+- ustal liczbę kolumn naszej siatki GridLayout (atrybut cols)
 - dodawanie widgetu do siatki odbywa się za pomocą metody add_widget()
 - wszystkie potrzebne widgety zostały zaimportowane
 
